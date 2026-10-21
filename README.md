@@ -454,22 +454,6 @@ Karena tidak ada proses kompilasi yang perlu dijalankan:
 
 ---
 
-## 👤 Developer
-
-| Nama | Peran | Kontak |
-|---|---|---|
-| **Sayidathaya** | Developer | [GitHub](https://github.com/Sayidathaya) |
-
----
-
-## 📄 Lisensi
-
-Proyek ini memakai lisensi **MIT**.
-
-> Lisensi MIT mengizinkan penggunaan, salinan, modifikasi, dan distribusi, dengan syarat menyertakan notice hak cipta.
-
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:e53935,50:b3101f,100:1a1a2e&section=footer)
