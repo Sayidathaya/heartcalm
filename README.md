@@ -31,6 +31,9 @@ Repo ini di-deploy lewat **Settings → Pages → Deploy from a branch → `main
 
 URL hasilnya: `https://<username>.github.io/<nama-repo>/`
 
+> Panduan lengkap (langkah demi langkah, CLI maupun manual) ada di **[DEPLOY.md](DEPLOY.md)**.
+> quickest way: jalankan `gh auth login`, lalu `deploy.bat`.
+
 > Semua path aset menggunakan path relatif (`./css/...`, `../asset/...`) agar
 > website tetap berjalan baik di root domain maupun di sub-folder repository.
 
