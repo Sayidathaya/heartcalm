@@ -12,12 +12,12 @@ sehingga bisa di-deploy **gratis** ke GitHub Pages.
 
 | Metode | Cocok untuk | Waktu |
 |---|---|---|
-| **A. GitHub CLI (`gh`)** —recommended | Sudah pakai terminal | ±3 menit, otomatis |
+| **A. GitHub CLI (`gh`)** — recommended | Sudah pakai terminal | ±3 menit, otomatis |
 | **B. Manual via browser** | Kalau tidak mau install CLI | ±7 menit, klik-klik |
 
 ---
 
-## Metode A — GitHub CLI (otomatis,recommended)
+## Metode A — GitHub CLI (otomatis, recommended)
 
 Prasyarat: GitHub CLI sudah terpasang (di komputer ini **sudah ada** di
 `C:\Program Files\GitHub CLI\gh.exe`) dan sudah login.
